@@ -99,8 +99,8 @@ erDiagram
 
 ## Example Screenshots
 ### Main Page
-![Main Page](./images/teahouse_homepage.png.png)
+![Main Page](./images/teahouse_homepage.png)
 ### Add Product Form
-![Update Insourced Product Form](./images/update_insourced.png.png)
+![Update Insourced Product Form](./images/update_insourced.png)
 ### Modify Product Form
-![Updated Outsourced Form](./images/update_outsourced.png.png)
+![Updated Outsourced Form](./images/update_outsourced.png)
